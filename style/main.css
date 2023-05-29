@@ -1,0 +1,175 @@
+body{
+background-color: #DCE0E0;
+color: #black;
+font-family: sans-serif;
+}
+
+/* Header */
+#header{
+background-color: #101212;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 0px;
+border-radius: 5px;
+}
+ul a{
+color: white;
+text-decoration: none;
+}
+li{
+display: inline-block;
+height: 20px;
+width: 100px;
+padding: 10px;
+text-align: center;
+color: white;
+background-color: #064747;
+border-radius: 5px;
+}
+li:hover{
+background-color: #365959;
+border-style: none;
+font-weight: bold;
+}
+h1{
+color: white;
+margin-left: 40px;
+}
+
+/* Koppen */
+h2 {
+color: #black;
+text-align: center;
+}
+
+/* Inhoud algemeen */
+.contentblok{
+margin: auto;
+width: 50%;
+padding-top: 30px;
+padding-right: 50px;
+padding-bottom: 30px;
+padding-left: 50px;
+text-align: justify;
+line-height: 1.6;
+color: black;
+background-color: #456969;
+border-radius: 5px;
+}
+
+/* CV */
+#mijncv{
+border-collapse: collapse;
+width: 100%;
+font-size: 12px;
+}
+#t1-1 {
+color: white;
+background-color: black;
+width: 70px;
+padding: 5px;
+}
+#t1-2 {
+color: white;
+background-color: black;
+width: 100px;
+padding: 5px;
+}
+#t1-3 {
+color: white;
+background-color: black;
+width: 150px;
+padding: 5px;
+}
+#t1-4 {
+color: white;
+background-color: black;
+width: 350px;
+padding: 5px;
+}
+#t2-1 {
+background-color: #365959;
+width: 70px;
+padding: 5px;
+}
+#t2-2 {
+background-color: #365959;
+width: 100px;
+padding: 5px;
+}
+#t2-3 {
+background-color: #365959;
+width: 150px;
+padding: 5px;
+}
+#t2-4 {
+background-color: #365959;
+width: 350px;
+padding: 5px;
+}
+#t3-1 {
+background-color: #365959;
+width: 70px;
+padding: 5px;
+}
+#t3-2 {
+background-color: #365959;
+width: 100px;
+padding: 5px;
+}
+#t3-3 {
+background-color: #365959;
+width: 150px;
+padding: 5px;
+}
+#t3-4 {
+background-color: #365959;
+width: 350px;
+padding: 5px;
+}
+
+/* Contactformulier */
+#voornaam{
+border-radius: 5px;
+}
+#achternaam{
+border-radius: 5px;
+}
+#email{
+border-radius: 5px;
+}
+textarea{
+height: 100px;
+width: 680px;
+border-radius: 5px;
+}
+button{
+background-color: #064747;
+border: none;
+color: white;
+height: 40px;
+width: 100px;
+padding: 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 5px;
+}
+button:hover{
+background-color: #101212;
+}
+button:active{
+background-color: #1E3B3B;
+}
+
+/* Footer */
+#footer{
+color: white;
+background-color: #101212;
+padding-top: 25px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 40px;
+border-radius: 5px;
+}
